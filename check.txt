@@ -1,5 +1,12 @@
 Check for Add to repository
 
 My first code is success
+<<<<<<< HEAD
 
 New code added for demo in main branch
+=======
+My new branch created
+Branch name is 'codebranch'
+
+New demo code
+>>>>>>> codebranch
